@@ -52,7 +52,7 @@ Depending on the iteration number you choose, this may take a while. Results wil
 
 ## Implementation of both Solvers
 
-As a quick reference, the implementation of the 5-point minimal solver can be found [here](https://github.com/mgaoling/eventail_simulation_open/blob/main/src/linear_solver.cpp#L62), and the N-point linear solver is available [here](https://github.com/mgaoling/eventail_simulation_open/blob/main/src/polyjam_solver.cpp#L77).
+As a quick reference, the implementation of the 5-point minimal solver can be found [here](https://github.com/mgaoling/eventail_simulation_open/blob/main/src/polyjam_solver.cpp#L77), and the N-point linear solver is available [here](https://github.com/mgaoling/eventail_simulation_open/blob/main/src/linear_solver.cpp#L62).
 
 ## Acknowledgments
 
